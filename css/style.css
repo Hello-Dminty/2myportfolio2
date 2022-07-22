@@ -659,7 +659,7 @@ padding-left: 10px;
 .tab-right{
 display: flex;
 padding: 100px;
-background-color: black;
+background-color: #2D2D2D;
 width: 40%;
 flex-direction: column;
 color: white;
